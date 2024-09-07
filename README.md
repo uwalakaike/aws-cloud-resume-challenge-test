@@ -1,5 +1,8 @@
 # AWS Cloud Resume Challenge
 
+**Description**
+This is a project challange aimed at knowing the fundamental skills as a cloud engineer or solutions architect. You must be able to use different services differently and integrate them with each other to create a functional project.
+
 ![mydiagram1](https://github.com/user-attachments/assets/8b4298d4-b10c-4945-bad2-af3113fe0637)
 
 
