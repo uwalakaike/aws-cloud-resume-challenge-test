@@ -25,6 +25,10 @@ This is a project challenge aimed at knowing the fundamental skills as a cloud e
 
 - Github Actions
 
+- CI/CD
+
+- Terraform
+
 ## [Live Demo 🔗](https://resume.uwalakaike.com)
 
 
